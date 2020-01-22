@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TestSlash</string>
+    <string name="button_service">CALL SERVICE</string>
+    <string name="button_list">GO TO LIST ACTIVITY</string>
+    <string name="response">Response</string>
+    <string name="add">ADD</string>
+    <string name="remove">REMOVE ALL ENTRIES</string>
+    <string name="sort">SORT ASCENDING</string>
+    <string name="list_title">Number list</string>
 </resources>
